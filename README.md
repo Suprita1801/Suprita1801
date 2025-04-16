@@ -71,7 +71,7 @@
   <a href="www.linkedin.com/in/suprita1805" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/supritaT" target="blank">
+  <a href="https://github.com/suprita1801" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="mailto:suprita.t1805@gmail.com">
