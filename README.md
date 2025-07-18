@@ -23,6 +23,34 @@ To build a career combining expertise in:
 
 ---
 
+## 📊 **Skill Proficiency (Visual Progress Bars)**
+
+### 💡 Programming Languages
+- **Python**            ▓▓▓▓▓▓▓▓▓░
+- **Java**              ▓▓▓▓▓▓▓▓░░
+- **SQL (RDBMS)**       ▓▓▓▓▓▓▓▓░░
+
+### 🌐 Web Development
+- **HTML / CSS**        ▓▓▓▓▓▓▓▓░░
+- **JavaScript**        ▓▓▓▓▓▓░░░░
+- **React.js**          ▓▓▓▓▓▓░░░░
+- **Backend (Node.js)** ▓▓▓░░░░░░
+
+### 📊 Data Science & AI
+- **Pandas / NumPy**    ▓▓▓▓▓▓▓▓░░
+- **Scikit-Learn**      ▓▓▓▓▓░░░░░
+- **Matplotlib / Seaborn** ▓▓▓▓▓░░░░
+
+### 🔧 Hardware & Electronics
+- **Digital Electronics** ▓▓▓▓▓▓▓▓░░
+- **Verilog / VLSI**      ▓▓▓▓▓▓░░░░
+
+### 🐧 Linux
+- **Linux OS (Usage)**     ▓▓▓▓▓░░░░
+- **Linux Commands**       ▓▓▓░░░░░░
+
+---
+
 ## 🛠️ **Languages & Technologies I Work With**
 
 <p align="left">
@@ -81,5 +109,6 @@ To build a career combining expertise in:
 ---
 
 _Thanks for visiting my profile! Feel free to connect._ ⭐
+
 
 
