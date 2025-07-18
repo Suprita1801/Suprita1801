@@ -61,7 +61,7 @@ To build a career combining expertise in:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/microchip.svg" alt="Verilog (Chip)" width="40" height="40"/>
+
 </p>
 
 
