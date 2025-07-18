@@ -7,45 +7,35 @@
 ---
 
 ## 🚀 About Me
-I am an aspiring engineer who is passionate about the intersection of **Electronics Hardware** and **Artificial Intelligence**.  
-My current journey is focused on bridging the gap between core **Electronics (VLSI, Digital Electronics)** and **AI/ML technologies** by strengthening my skills through hands-on projects.
+I am an aspiring engineer passionate about the intersection of **Electronics Hardware** and **Artificial Intelligence**.  
+Currently, I am focused on strengthening my skills through hands-on learning in **Data Science**, **Machine Learning (ML)**, **Deep Learning (DL)**, and core **VLSI / Digital Electronics**.
 
-Alongside my engineering curriculum, I am actively learning **Data Science, Machine Learning, and Deep Learning** through platforms like **Scaler** and **GeeksforGeeks**. I enjoy working on practical, real-world projects that demonstrate my growth.
+Alongside my studies, I actively learn through platforms like **Scaler** and **GeeksforGeeks**, applying my knowledge through real-world, case-based projects.
 
 ---
 
 ## 🎯 **Career Goal**
-To build a career where I can contribute to **AI and Electronics Innovation**, combining my skills in:
-- **AI/ML Applications**
+To build a career combining expertise in:
+- **AI / ML Applications**
 - **Data Science**
-- **VLSI/Digital Hardware Systems**
-- **Full-Stack Development (Frontend Focus)**
+- **VLSI / Digital Hardware Systems**
+- **Frontend Technologies (React.js)**
 
 ---
 
-## 🛠️ **Technical Skills**
+## 🛠️ **Languages & Technologies I Work With**
 
-### 🚀 Programming
-- **Intermediate**: Java, Python
-- **Basic**: Backend Development Fundamentals (Node.js)
-
-### 🌐 Web Technologies
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Basic knowledge (Express.js fundamentals)
-
-### 📊 Data Science & AI
-- Python Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- Relational Databases: **SQL** (Intermediate Level)
-- Learning Platforms: **Scaler**, **GeeksforGeeks**
-
-### 🔧 Hardware & Electronics
-- Digital Electronics (Combinational, Sequential Circuits)
-- **Verilog HDL** for Hardware Design
-- VLSI Concepts
-
-### 🐧 Linux
-- Comfortable using Linux OS for daily development
-- Currently learning command-line tools for efficiency
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" alt="Verilog" width="40" height="40"/>
+</p>
 
 ---
 
@@ -66,19 +56,7 @@ To build a career where I can contribute to **AI and Electronics Innovation**, c
 
 ---
 
-## 📚 **Tools & Technologies**
-`Java` `Python` `React` `HTML` `CSS` `JavaScript` `SQL` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Verilog` `Linux`
-
----
-
-## 🌐 **Let's Connect**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/suprita1805/)
-- 🧑‍💻 [LeetCode](https://leetcode.com/u/Suprita1805/)
-- 💻 [GitHub](https://github.com/Suprita1801/)
-
----
-
-## 📈 **GitHub Stats & Badges** (Optional for Profile Attractiveness)
+## 📈 **GitHub Stats & Streaks**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suprita1801&show_icons=true&theme=tokyonight" alt="Suprita's GitHub Stats" width="50%"/>
@@ -87,6 +65,13 @@ To build a career where I can contribute to **AI and Electronics Innovation**, c
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suprita1801&layout=compact&theme=tokyonight" width="50%" alt="Most Used Languages"/>
 </p>
+
+---
+
+## 🌐 **Let's Connect**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/suprita1805/)
+- 🧑‍💻 [LeetCode](https://leetcode.com/u/Suprita1805/)
+- 💻 [GitHub](https://github.com/Suprita1801/)
 
 ---
 
